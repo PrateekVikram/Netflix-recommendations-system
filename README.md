@@ -13,10 +13,17 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 
 
 https://www.netflixprize.com/rules.html
+
 https://www.kaggle.com/netflix-inc/netflix-prize-data
+
 Netflix blog: https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429 (very nice blog)
+
 surprise library: http://surpriselib.com/ (we use many models from this library)
+
 surprise library doc: http://surprise.readthedocs.io/en/stable/getting_started.html (we use many models from this library)
+
 installing surprise: https://github.com/NicolasHug/Surprise#installation
+
 Research paper: http://courses.ischool.berkeley.edu/i290-dm/s11/SECURE/a1-koren.pdf (most of our work was inspired by this paper)
+
 SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c
